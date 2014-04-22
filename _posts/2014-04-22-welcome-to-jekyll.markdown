@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "JavaScript Oasis"
 date:   2014-04-22 14:46:13
-categories: jekyll update
+categories: JavaScript
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
